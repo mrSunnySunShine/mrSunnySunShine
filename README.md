@@ -1,4 +1,5 @@
-## 👋 Hej! Jag heter Robert Rizzo.
+## 👋 Hej!
+# Jag heter Robert Rizzo.
 
 Jag studerar till Javautvecklare på IT-Högskolan i Stockholm och har en stark passion för problemlösning och systemutveckling. Efter att ha arbetat inom skolan i cirka 7 år innan jag påbörjade min IT-resa (2024), har jag utvecklat en bra förståelse för samarbete och lagarbete, något jag tar med mig in i mina IT-projekt.
 
