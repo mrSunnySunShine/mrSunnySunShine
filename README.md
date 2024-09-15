@@ -6,7 +6,7 @@ Jag studerar till Javautvecklare på IT-Högskolan i Stockholm och har en stark 
 - **Java** (nuvarande fokus som Javautvecklare)
 - **Python** (Programmering 1 & 2)
 - **HTML**, **CSS**, **JavaScript** (Webbutveckling 1 & 2)
-- **PHP**, **MySQL**, och **AMMPS Web Server** (Webbserverprogrammering)
+- **PHP** och **MySQL**(Webbserverprogrammering)
 
 📚 Just nu fördjupar jag mig i Java-backendutveckling och ser fram emot att fortsätta utvecklas inom både frontend och backend för att bli en komplett fullstack-utvecklare.
 
