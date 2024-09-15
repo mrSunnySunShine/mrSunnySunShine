@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hej! Jag heter Robert Rizzo.
 
-<!--
-**mrSunnySunShine/mrSunnySunShine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jag studerar till Javautvecklare på IT-Högskolan i Stockholm och har en stark passion för problemlösning och systemutveckling. Efter att ha arbetat inom skolan i cirka 7 år innan jag påbörjade min IT-resa (2024), har jag utvecklat en bra förståelse för samarbete och lagarbete, något jag tar med mig in i mina IT-projekt.
 
-Here are some ideas to get you started:
+💻 **Kompetenser:**
+- **Java** (nuvarande fokus som Javautvecklare)
+- **Python** (Programmering 1 & 2)
+- **HTML**, **CSS**, **JavaScript** (Webbutveckling 1 & 2)
+- **PHP**, **MySQL**, och **AMMPS Web Server** (Webbserverprogrammering)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Just nu fördjupar jag mig i Java-backendutveckling och ser fram emot att fortsätta utvecklas inom både frontend och backend för att bli en komplett fullstack-utvecklare.
+
+
+🎯 **Mål:** Att arbeta som Javautvecklare eller systemutvecklare och bidra till att utveckla smarta, hållbara lösningar, samtidigt som jag fortsätter att växa som fullstackutvecklare.
+
+---
+
+🔗 Utforska gärna mina projekt och följ min utvecklingsresa här på GitHub!
