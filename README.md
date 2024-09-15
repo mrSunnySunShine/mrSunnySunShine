@@ -1,7 +1,7 @@
 ## 👋 Hej!
 
 Jag studerar till Javautvecklare på IT-Högskolan i Stockholm och har en stark passion för problemlösning och systemutveckling. Efter att ha arbetat inom skolan i cirka 7 år innan jag påbörjade min IT-resa (2024), har jag utvecklat en bra förståelse för samarbete och lagarbete, något jag tar med mig in i mina IT-projekt.
-
+<hr>
 💻 **Kompetenser:**
 <br><br>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -11,7 +11,7 @@ Jag studerar till Javautvecklare på IT-Högskolan i Stockholm och har en stark 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /><br><br>
-
+<hr>
 
 📚 Just nu fördjupar jag mig i Java-backendutveckling och ser fram emot att fortsätta utvecklas inom både frontend och backend för att bli en komplett fullstack-utvecklare.
 
