@@ -3,6 +3,7 @@
 Jag studerar till Javautvecklare på IT-Högskolan i Stockholm och har en stark passion för problemlösning och systemutveckling. Efter att ha arbetat inom skolan i cirka 7 år innan jag påbörjade min IT-resa (2024), har jag utvecklat en bra förståelse för samarbete och lagarbete, något jag tar med mig in i mina IT-projekt.
 
 💻 **Kompetenser:**
+<br>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
