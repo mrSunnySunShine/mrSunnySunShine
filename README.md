@@ -3,8 +3,8 @@
 Jag studerar till Javautvecklare på IT-Högskolan i Stockholm och har en stark passion för problemlösning och systemutveckling. Efter att ha arbetat inom skolan i cirka 7 år innan jag påbörjade min IT-resa (2024), har jag utvecklat en bra förståelse för samarbete och lagarbete, något jag tar med mig in i mina IT-projekt.
 
 💻 **Kompetenser:**
-- **Java** (nuvarande fokus som Javautvecklare) <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />><br>
-- **Python** (Programmering 1 & 2)
+- **Java** (nuvarande fokus som Javautvecklare) <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />><br><br>
+- **Python** (Programmering 1 & 2) <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />>
 - **HTML**, **CSS**, **JavaScript** (Webbutveckling 1 & 2)
 - **PHP** och **MySQL**(Webbserverprogrammering)
   ![PHP](file:///Users/rizzo/Downloads/php.svg)
