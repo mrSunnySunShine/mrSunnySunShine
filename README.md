@@ -7,6 +7,7 @@ Jag studerar till Javautvecklare på IT-Högskolan i Stockholm och har en stark 
 - **Python** (Programmering 1 & 2)
 - **HTML**, **CSS**, **JavaScript** (Webbutveckling 1 & 2)
 - **PHP** och **MySQL**(Webbserverprogrammering)
+  ![PHP](file:///Users/rizzo/Downloads/php.svg)
 
 📚 Just nu fördjupar jag mig i Java-backendutveckling och ser fram emot att fortsätta utvecklas inom både frontend och backend för att bli en komplett fullstack-utvecklare.
 
